@@ -1,2 +1,0 @@
-# PrimeApp
-Created with CodeSandbox
